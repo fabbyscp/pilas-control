@@ -40,19 +40,19 @@ O projeto foi desenvolvido ao longo de 7 dias, utilizando prompts para orientar 
 
 ### Tela inicial
 
-![Tela inicial](screenshots/inicio.png)
+![Tela inicial](001.jpg)
 
 ### Nova transação
 
-![Nova transação](screenshots/nova-transacao.png)
+![Nova transação](002.jpg)
 
 ### Extrato
 
-![Extrato](screenshots/extrato.png)
+![Extrato](003.jpg)
 
 ### Resumo e gráficos
 
-![Dashboard financeiro](screenshots/dashboard.png)
+![Dashboard financeiro](004.jpg)
 
 ## 📚 O que aprendi
 
